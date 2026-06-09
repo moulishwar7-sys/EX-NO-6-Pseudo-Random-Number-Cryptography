@@ -1,4 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
+### NAME : MOULISHWAR G
+### REGISTER NUMBER : 2305001020
 
 
 ## AIM: 
@@ -36,6 +38,8 @@ return 0;
 }
 ```
 ## OUTPUT:
+
+<img width="826" height="261" alt="image" src="https://github.com/user-attachments/assets/9bbc8fde-e344-4cdf-bb7c-b24dfe021a06" />
 
 
 ## RESULT:
